@@ -1,2 +1,2 @@
 # goit-markup-hw-01
-Practice
+Homework for Goit
